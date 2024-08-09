@@ -1,2 +1,2 @@
 # deltahere...
-This is the demo for the GIT &amp; GITHUB
+This is the demo for the GIT &amp; GITHUB class.
